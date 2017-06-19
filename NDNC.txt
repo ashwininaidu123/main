@@ -1,0 +1,18 @@
+
+[2017-03-10 12:33:05] reply:http://115.249.28.90/sms/sendSMS.php?from=VMCIND&to=8553583089&text=Your+New+assigned+Lead+Details+are++no%3A7411303762+and+Name%3Aheamanth.Powered+By+Mcube===>a:1:{i:0;s:4:"Sent";}
+[2017-03-10 13:05:24] reply:http://115.249.28.90/sms/sendSMS.php?from=VMCIND&to=8553583089&text=Your+New+assigned+Lead+Details+are++no%3A9886282641+and+Name%3AMUKESH.+Powered+By+Mcube===>a:1:{i:0;s:4:"Sent";}
+[2017-03-10 13:10:31] reply:http://115.249.28.90/sms/sendSMS.php?from=VMCIND&to=8553583089&text=Your+New+assigned+Lead+Details+are++no%3A9886282641+and+Name%3AMUKESH.+Powered+By+Mcube===>a:1:{i:0;s:4:"Sent";}
+[2017-03-10 13:10:31] reply:http://115.249.28.90/sms/sendSMS.php?from=VMCIND&to=9886282641&text=Happy+to+inform.+You+are+added+in+to+our+family+%21%21%21%21===>a:1:{i:0;s:4:"Sent";}
+[2017-03-16 17:03:02] reply:http://115.249.28.90/sms/sendSMS.php?from=VMCIND&to=8553583089&text=%0AYour+one+time+password+for+MCube+is%3A+G5W6O6X===>a:1:{i:0;s:4:"Sent";}
+[2017-03-16 17:06:08] reply:http://115.249.28.90/sms/sendSMS.php?from=VMCIND&to=8553583089&text=%0AYour+one+time+password+for+MCube+is%3A+E0O9K4Z===>a:1:{i:0;s:4:"Sent";}
+[2017-03-16 17:07:38] reply:http://115.249.28.90/sms/sendSMS.php?from=VMCIND&to=8553583089&text=%0AYour+one+time+password+for+MCube+is%3A+V2J4H9A===>a:1:{i:0;s:4:"Sent";}
+[2017-03-16 17:07:56] reply:http://115.249.28.90/sms/sendSMS.php?from=VMCIND&to=8553583089&text=%0AYour+one+time+password+for+MCube+is%3A+U7D7G4I===>a:1:{i:0;s:4:"Sent";}
+[2017-03-16 17:08:03] reply:http://115.249.28.90/sms/sendSMS.php?from=VMCIND&to=8553583089&text=%0AYour+one+time+password+for+MCube+is%3A+P6S2A8R===>a:1:{i:0;s:4:"Sent";}
+[2017-03-16 17:12:53] reply:http://115.249.28.90/sms/sendSMS.php?from=VMCIND&to=8553583089&text=%0AYour+one+time+password+for+MCube+is%3A+J4A6B0T===>a:1:{i:0;s:4:"Sent";}
+[2017-03-16 17:20:28] reply:http://115.249.28.90/sms/sendSMS.php?from=VMCIND&to=8553583089&text=%0AYour+one+time+password+for+MCube+is%3A+V6R6N2Z===>a:1:{i:0;s:4:"Sent";}
+[2017-04-18 16:25:49] reply:http://115.249.28.90/sms/sendSMS.php?from=VMCIND&to=8553583089&text=Dear+Ashwini++Your+Password+has+been+reset.+New+Password+is%3A+v5w4f7e8y6l++Regards+MCube+Team===>a:1:{i:0;s:4:"Sent";}
+[2017-05-15 14:31:51] reply:http://115.249.28.90/sms/sendSMS.php?from=VMCIND&to=8553583089&text=%0AYour+one+time+password+for+MCube+is%3A+F6P4R6P===>a:1:{i:0;s:4:"Sent";}
+[2017-06-05 11:29:37] reply:http://115.249.28.90/sms/sendSMS.php?from=VMCIND&to=8553583089&text=Dear+Ashwini+Naidu++Your+Password+has+been+reset.+New+Password+is%3A+x5p7o2y6s4n++Regards+MCube+Team===>a:1:{i:0;s:4:"Sent";}
+[2017-06-05 11:36:18] reply:http://115.249.28.90/sms/sendSMS.php?from=VMCIND&to=8553583089&text=%0AYour+one+time+password+for+MCube+is%3A+V2W9Y5Z===>a:1:{i:0;s:4:"Sent";}
+[2017-06-05 11:38:36] reply:http://115.249.28.90/sms/sendSMS.php?from=VMCIND&to=8553583089&text=%0AYour+one+time+password+for+MCube+is%3A+M9N7E5L===>a:1:{i:0;s:4:"Sent";}
+[2017-06-15 11:13:00] reply:http://115.249.28.90/sms/sendSMS.php?from=VMCIND&to=8553583089&text=Dear+Ashwini++Your+Password+has+been+reset.+New+Password+is%3A+z0d9e2s9g1x++Regards+MCube+Team===>b:0;

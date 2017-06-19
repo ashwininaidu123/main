@@ -1,0 +1,572 @@
+
+2017-03-15 15:17:02 Error Log:  a:0:{}
+2017-03-15 15:17:11 Error Log:  a:1:{s:4:"test";s:6:"testig";}
+2017-03-15 15:19:24 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:19:25 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:19:41 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:19:44 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:20:24 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 1";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:21:25 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:21:43 Error Log:  a:2:{s:5:"Error";s:858:"
+ CallRecordService Line 239 
+ java.lang.RuntimeException: start failed.
+ at android.media.MediaRecorder.start(Native Method)
+ at vmc.in.mrecorder.service.CallRecorderServiceAll$CallBroadcastReceiver.startRecording(CallRecorderServiceAll.java:267)
+ at vmc.in.mrecorder.service.CallRecorderServiceAll$CallBroadcastReceiver.onReceive(CallRecorderServiceAll.java:227)
+ at android.app.LoadedApk$ReceiverDispatcher$Args.run(LoadedApk.java:922)
+ at android.os.Handler.handleCallback(Handler.java:815)
+ at android.os.Handler.dispatchMessage(Handler.java:104)
+ at android.os.Looper.loop(Looper.java:207)
+ at android.app.ActivityThread.main(ActivityThread.java:5728)
+ at java.lang.reflect.Method.invoke(Native Method)
+ at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:789)
+ at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:679)
+";s:7:"authkey";s:17:"1.1.ee954da5996d0";}
+2017-03-15 15:21:49 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.ee954da5996d0";}
+2017-03-15 15:22:26 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:23:25 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:23:48 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.ee954da5996d0";}
+2017-03-15 15:24:26 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:25:27 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:26:29 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:27:30 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:28:31 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:29:32 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:30:33 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:31:35 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:32:36 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:33:57 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:34:58 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:35:59 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:37:00 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:38:01 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:39:02 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:40:03 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:41:04 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:42:05 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:43:06 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:44:06 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:45:07 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:46:06 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:47:06 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:48:07 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:49:06 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:50:06 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:51:06 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:52:06 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:53:06 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:54:07 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:55:08 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:56:10 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:57:10 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:58:11 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 15:59:13 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 16:00:14 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 16:01:44 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 16:02:38 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 16:03:51 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 16:04:45 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 16:05:45 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 16:06:45 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 16:07:45 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-03-15 16:08:46 Error Log:  a:2:{s:5:"Error";s:52:"
+ SyncAdapter   Line 146 
+  Offline Recording Size 0";s:7:"authkey";s:17:"1.1.cc99101d89cda";}
+2017-04-11 12:32:14 Insert Call Deatils Input:  a:1:{s:4:"test";s:6:"testig";}
+2017-04-11 12:32:14 Insert Call Deatils output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:34:"<br>The authkey field is required.";}
+2017-04-11 12:34:15 Insert Call Deatils Input:  a:1:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";}
+2017-04-11 12:34:15 Insert Call Deatils output:  a:2:{s:4:"code";s:3:"202";s:3:"msg";s:67:"You do not have Licence to login, Please contact your administrator";}
+2017-04-11 12:34:55 Insert Call Deatils Input:  a:3:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";}
+2017-04-11 12:34:55 Insert Call Deatils output:  a:2:{s:4:"code";s:3:"202";s:3:"msg";s:67:"You do not have Licence to login, Please contact your administrator";}
+2017-04-11 12:37:08 Insert Call Deatils Input:  a:3:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";}
+2017-04-11 12:37:49 Insert Call Deatils Input:  a:5:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";}
+2017-04-11 12:38:12 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 12:39:08 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 12:39:08 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 12:40:02 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 12:40:02 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 12:44:05 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 12:44:05 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 12:44:26 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 12:44:49 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 12:44:49 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 12:45:22 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 12:58:43 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 12:58:43 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 12:58:53 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 12:58:53 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 12:59:18 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 13:07:10 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 13:07:10 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 13:07:22 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 13:08:01 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 13:08:01 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 13:08:12 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 13:19:26 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 13:19:26 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 13:19:52 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 14:36:10 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 14:36:10 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 14:39:30 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 14:39:45 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 14:39:45 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 14:41:33 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 14:42:12 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 14:42:12 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 14:44:55 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 14:45:10 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 14:45:10 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 14:45:22 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 14:46:03 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 14:55:45 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 14:55:45 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 14:56:11 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 14:57:23 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 14:58:13 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 14:58:42 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 14:58:59 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 14:59:39 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:00:12 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:00:12 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:00:33 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:01:45 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:01:45 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:02:02 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:05:05 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:05:05 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:05:37 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:05:37 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:06:45 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:06:45 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:07:15 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:07:15 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:08:40 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:08:40 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:10:00 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:10:00 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:10:50 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:10:50 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:11:06 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:11:06 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:11:42 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:11:42 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:12:57 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:12:57 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:16:17 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:16:17 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:17:46 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:17:46 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:19:21 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:19:21 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:20:25 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:20:25 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:21:25 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:21:25 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:23:18 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:23:18 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:25:01 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:25:01 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:25:32 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:25:32 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:28:18 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:28:18 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:29:41 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:29:41 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:35:58 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:35:58 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:37:08 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:37:08 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:43:00 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:43:00 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:44:23 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:44:23 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:45:01 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 19:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 15:45:01 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:48:49 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 15:48:49 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:50:08 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 15:50:08 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:50:35 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 15:51:33 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 15:51:33 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:52:18 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 15:52:18 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 15:55:19 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 15:57:04 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 15:57:57 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 15:58:48 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 15:59:12 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 16:00:05 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 16:00:49 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 16:01:57 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 16:02:34 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 16:08:12 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 16:09:13 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 16:18:56 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 16:19:24 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 16:20:12 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 16:20:47 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 16:21:31 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 16:22:03 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 16:25:37 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 16:26:31 Insert Call Deatils Input:  a:9:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:7:"endtime";s:19:"2016-11-07 19:06:00";s:8:"filename";s:24:"sounds20160330174136.amr";s:8:"location";s:12:"23:25, 25:65";}
+2017-04-11 16:27:00 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 16:27:01 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 16:29:58 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 16:36:58 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 16:36:58 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 16:37:51 Insert Call Deatils Input:  a:7:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:8:"location";s:15:"12.9698,77.7499";}
+2017-04-11 16:39:54 Insert Call Deatils Input:  a:7:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:8:"location";s:15:"12.9698,77.7499";}
+2017-04-11 16:42:05 Insert Call Deatils Input:  a:7:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:8:"location";s:15:"12.9698,77.7499";}
+2017-04-11 16:42:44 Insert Call Deatils Input:  a:7:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:8:"location";s:15:"12.9698,77.7499";}
+2017-04-11 16:50:13 Insert Call Deatils Input:  a:7:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:8:"location";s:15:"12.9698,77.7499";}
+2017-04-11 16:51:09 Insert Call Deatils Input:  a:7:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:8:"location";s:15:"12.9698,77.7499";}
+2017-04-11 16:52:05 Insert Call Deatils Input:  a:7:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:8:"location";s:15:"12.9698,77.7499";}
+2017-04-11 16:53:13 Insert Call Deatils Input:  a:7:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";s:8:"location";s:15:"12.9698,77.7499";}
+2017-04-11 16:53:37 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 16:53:37 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 16:54:03 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 16:54:52 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 16:55:22 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 16:56:18 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 16:56:36 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 16:57:25 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 16:57:46 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 16:58:50 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 17:00:27 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 17:00:27 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-11 17:00:40 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 17:04:18 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 17:05:15 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 17:10:20 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 17:12:45 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 17:14:03 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 17:23:33 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 17:24:44 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 17:25:22 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 17:49:54 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 17:56:39 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-11 17:56:40 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-13 11:04:36 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-13 11:04:37 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-13 11:07:54 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-13 11:07:55 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-13 11:08:46 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-13 11:08:47 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-13 11:09:07 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-13 11:09:08 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-13 11:10:58 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-13 11:10:58 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-04-25 10:57:33 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:18:"1.58.56fbd8605afe6";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:6:"callto";s:11:"23432453245";s:9:"starttime";s:19:"2016-11-07 09:06:00";s:8:"calltype";s:1:"2";s:4:"name";s:7:"ashwini";}
+2017-04-25 10:57:34 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:2:"21";}
+2017-05-03 11:04:33 getList Input:  a:0:{}
+2017-05-03 11:04:33 getList Output:  420 
+2017-05-03 11:05:05 getList Input:  a:2:{s:7:"authkey";s:0:"";s:4:"type";s:0:"";}
+2017-05-03 11:05:05 getList Output:  420 <br>The authkey field is required.<br>The Type field is required.
+2017-05-03 11:05:22 getList Input:  a:2:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:4:"type";s:3:"all";}
+2017-05-03 11:05:22 getList Output:  202 You do not have Licence to login, Please contact your administrator
+2017-05-03 11:05:49 getList Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:4:"type";s:3:"all";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";}
+2017-05-03 11:05:49 getList Output:  202 You do not have Licence to login, Please contact your administrator
+2017-05-03 11:06:39 getList Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:4:"type";s:3:"all";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";}
+2017-05-03 11:07:24 getList Input:  a:4:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:4:"type";s:3:"all";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:8:"location";s:21:"12.9513633,77.7136598";}
+2017-05-03 11:08:43 getList Input:  a:4:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:4:"type";s:3:"all";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:8:"location";s:21:"12.9513633,77.8136598";}
+2017-05-03 11:08:43 getList Output:  400 Request Accepted
+2017-05-15 18:28:17 Insert Call Deatils Input:  a:0:{}
+2017-05-15 18:28:17 Insert Call Deatils output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-05-15 18:28:45 Insert Call Deatils Input:  a:1:{s:7:"authkey";s:0:"";}
+2017-05-15 18:28:45 Insert Call Deatils output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:34:"<br>The authkey field is required.";}
+2017-05-15 18:29:15 Insert Call Deatils Input:  a:1:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";}
+2017-05-15 18:29:15 Insert Call Deatils output:  a:2:{s:4:"code";s:3:"401";s:3:"msg";s:40:"You already logged into different device";}
+2017-05-15 18:29:33 Insert Call Deatils Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:6:"123456";s:6:"callto";s:10:"8553583089";}
+2017-05-15 18:29:33 Insert Call Deatils output:  a:2:{s:4:"code";s:3:"401";s:3:"msg";s:40:"You already logged into different device";}
+2017-05-15 18:30:28 Insert Call Deatils Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:12:"312342342345";s:6:"callto";s:10:"8553583089";}
+2017-05-15 18:30:28 Insert Call Deatils output:  a:2:{s:4:"code";s:3:"401";s:3:"msg";s:40:"You already logged into different device";}
+2017-05-15 18:31:06 Insert Call Deatils Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:10:"8553583089";}
+2017-05-15 18:31:44 Insert Call Deatils Input:  a:5:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:10:"8553583089";s:9:"starttime";s:19:"2017:20:12 12:12:12";s:8:"calltype";s:1:"2";}
+2017-05-15 18:31:58 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:10:"8553583089";s:9:"starttime";s:19:"2017:20:12 12:12:12";s:8:"calltype";s:1:"2";s:4:"name";s:3:"ash";}
+2017-05-15 18:31:59 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:1:"1";}
+2017-05-25 17:54:27 getList Input:  a:0:{}
+2017-05-25 17:54:27 getList Output:  420 
+2017-05-25 17:56:51 getList Input:  a:5:{s:7:"authKey";s:17:"1.1.d886b8e8a0615";s:4:"type";s:4:"ivrs";s:5:"ofset";s:1:"0";s:5:"limit";s:2:"20";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";}
+2017-05-25 17:56:51 getList Output:  420 <br>The authkey field is required.
+2017-05-25 17:56:58 getList Input:  a:5:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:4:"type";s:4:"ivrs";s:5:"ofset";s:1:"0";s:5:"limit";s:2:"20";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";}
+2017-05-25 17:56:58 getList Output:  400 Request Accepted
+2017-05-25 18:10:15 Insert Call Deatils Input:  a:2:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";}
+2017-05-25 18:11:16 Insert Call Deatils Input:  a:4:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:10:"8553583089";s:9:"starttime";s:19:"2014-10-01 11:06:39";}
+2017-05-25 18:11:26 Insert Call Deatils Input:  a:5:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:10:"8553583089";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";}
+2017-05-25 18:11:39 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:10:"8553583089";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-25 18:11:52 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:10:"8553583089";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-25 18:11:52 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:1:"1";}
+2017-05-25 18:12:10 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:11:"85535830878";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 14:46:27 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:11:"85535830878";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 14:46:27 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:1:"1";}
+2017-05-26 14:46:50 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:12:"855358308988";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 14:55:54 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:9:"855358988";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 15:10:29 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:11:"85535885988";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 15:11:01 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:11:"85535789988";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 15:11:33 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:11:"85535785988";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 15:12:19 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:11:"85535785986";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 15:13:04 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:11:"85535787886";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 15:13:04 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:1:"1";}
+2017-05-26 15:13:13 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:11:"85521787886";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 15:13:14 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:1:"1";}
+2017-05-26 15:13:29 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:9:"855217886";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 15:23:56 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:9:"855217569";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 15:25:44 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:9:"855257569";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 15:27:55 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:10:"8554567569";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 15:28:32 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:11:"85589667569";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 15:30:40 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:11:"85589636569";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 15:31:01 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:11:"85589636569";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 15:31:01 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:1:"1";}
+2017-05-26 15:31:51 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:11:"85589678569";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 15:33:27 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:12:"855789678569";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 15:33:48 Insert Call Deatils Input:  a:6:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:17:"1.1.d886b8e8a0615";s:6:"callto";s:10:"8557678569";s:9:"starttime";s:19:"2014-10-01 11:06:39";s:8:"calltype";s:1:"1";s:4:"name";s:7:"ashwini";}
+2017-05-26 15:33:50 Insert Call Deatils output:  a:7:{s:4:"code";s:3:"400";s:3:"msg";s:21:"Inserted Successfully";s:6:"record";s:1:"1";s:10:"mcubecalls";s:1:"1";s:8:"workhour";s:1:"0";s:3:"bid";s:1:"1";s:3:"eid";s:1:"1";}
+2017-06-16 11:37:23 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"0";}
+2017-06-16 11:37:23 Report By callType Output:  a:7:{s:5:"count";i:0;s:6:"record";s:1:"1";s:8:"workhour";s:1:"0";s:10:"mcubecalls";s:1:"1";s:7:"mtdebug";s:1:"1";s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 11:37:34 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"2";}
+2017-06-16 11:37:34 Report By callType Output:  a:7:{s:5:"count";i:0;s:6:"record";s:1:"1";s:8:"workhour";s:1:"0";s:10:"mcubecalls";s:1:"1";s:7:"mtdebug";s:1:"1";s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 11:39:24 Report By Emp Input:  a:0:{}
+2017-06-16 11:39:24 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:41:32 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"2";}
+2017-06-16 11:41:32 Report By callType Output:  a:7:{s:5:"count";i:0;s:6:"record";s:1:"1";s:8:"workhour";s:1:"0";s:10:"mcubecalls";s:1:"1";s:7:"mtdebug";s:1:"1";s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 11:48:24 Report By Emp Input:  a:3:{s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:7:"authKey";s:17:"1.1.d886b8e8a0615";s:10:"reporttype";s:1:"0";}
+2017-06-16 11:48:24 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:34:"<br>The Authkey field is required.";}
+2017-06-16 11:48:27 Report By Emp Input:  a:3:{s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:7:"authKey";s:17:"1.1.d886b8e8a0615";s:10:"reporttype";s:1:"1";}
+2017-06-16 11:48:27 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:34:"<br>The Authkey field is required.";}
+2017-06-16 11:48:29 Report By Emp Input:  a:3:{s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:7:"authKey";s:17:"1.1.d886b8e8a0615";s:10:"reporttype";s:1:"2";}
+2017-06-16 11:48:29 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:34:"<br>The Authkey field is required.";}
+2017-06-16 11:50:40 Report By Emp Input:  a:4:{s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:7:"authKey";s:17:"1.1.d886b8e8a0615";s:10:"reporttype";s:1:"0";s:11:"description";s:4:"test";}
+2017-06-16 11:50:40 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:34:"<br>The Authkey field is required.";}
+2017-06-16 11:52:41 Report By Emp Input:  a:0:{}
+2017-06-16 11:52:41 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:52:48 Report By Emp Input:  a:0:{}
+2017-06-16 11:52:48 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:52:52 Report By Emp Input:  a:0:{}
+2017-06-16 11:52:52 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:53:12 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"2";}
+2017-06-16 11:53:12 Report By callType Output:  a:7:{s:5:"count";i:0;s:6:"record";s:1:"1";s:8:"workhour";s:1:"0";s:10:"mcubecalls";s:1:"1";s:7:"mtdebug";s:1:"1";s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 11:53:34 Report By Emp Input:  a:0:{}
+2017-06-16 11:53:34 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:53:36 Report By Emp Input:  a:0:{}
+2017-06-16 11:53:36 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:53:42 Report By Emp Input:  a:0:{}
+2017-06-16 11:53:42 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:53:50 Report By Emp Input:  a:0:{}
+2017-06-16 11:53:50 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:53:57 Report By Emp Input:  a:0:{}
+2017-06-16 11:53:57 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:53:58 Report By Emp Input:  a:0:{}
+2017-06-16 11:53:58 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:53:58 Report By Emp Input:  a:0:{}
+2017-06-16 11:53:58 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:54:15 Report By Emp Input:  a:0:{}
+2017-06-16 11:54:15 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:54:16 Report By Emp Input:  a:0:{}
+2017-06-16 11:54:16 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:54:17 Report By Emp Input:  a:0:{}
+2017-06-16 11:54:17 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:54:43 Report By Emp Input:  a:0:{}
+2017-06-16 11:54:43 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:54:44 Report By Emp Input:  a:0:{}
+2017-06-16 11:54:44 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:54:45 Report By Emp Input:  a:0:{}
+2017-06-16 11:54:45 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:54:45 Report By Emp Input:  a:0:{}
+2017-06-16 11:54:45 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:54:46 Report By Emp Input:  a:0:{}
+2017-06-16 11:54:46 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:54:46 Report By Emp Input:  a:0:{}
+2017-06-16 11:54:46 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:54:48 Report By Emp Input:  a:0:{}
+2017-06-16 11:54:48 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:54:50 Report By Emp Input:  a:0:{}
+2017-06-16 11:54:50 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:54:51 Report By Emp Input:  a:0:{}
+2017-06-16 11:54:51 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:56:23 Report By Emp Input:  a:0:{}
+2017-06-16 11:56:23 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:56:34 Report By Emp Input:  a:0:{}
+2017-06-16 11:56:34 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:57:13 Report By Emp Input:  a:0:{}
+2017-06-16 11:57:13 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:57:26 Report By Emp Input:  a:0:{}
+2017-06-16 11:57:26 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:57:38 Report By Emp Input:  a:0:{}
+2017-06-16 11:57:38 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:58:33 Report By Emp Input:  a:0:{}
+2017-06-16 11:58:33 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 11:58:50 Report By Emp Input:  a:4:{s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:7:"authKey";s:17:"1.1.d886b8e8a0615";s:10:"reporttype";s:1:"1";s:11:"description";s:4:"test";}
+2017-06-16 11:58:50 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:34:"<br>The Authkey field is required.";}
+2017-06-16 11:59:34 Report By Emp Input:  a:4:{s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:7:"authKey";s:17:"1.1.d886b8e8a0615";s:10:"reporttype";s:1:"1";s:11:"description";s:4:"test";}
+2017-06-16 11:59:34 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:34:"<br>The Authkey field is required.";}
+2017-06-16 12:00:35 Report By Emp Input:  a:4:{s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:7:"authKey";s:17:"1.1.d886b8e8a0615";s:10:"reporttype";s:1:"1";s:11:"description";s:4:"test";}
+2017-06-16 12:00:35 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:34:"<br>The Authkey field is required.";}
+2017-06-16 12:00:56 Report By Emp Input:  a:4:{s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:7:"authKey";s:17:"1.1.d886b8e8a0615";s:10:"reporttype";s:1:"2";s:11:"description";s:4:"test";}
+2017-06-16 12:00:56 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:34:"<br>The Authkey field is required.";}
+2017-06-16 12:01:21 Report By Emp Input:  a:0:{}
+2017-06-16 12:01:21 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 12:01:22 Report By Emp Input:  a:0:{}
+2017-06-16 12:01:22 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 12:01:23 Report By Emp Input:  a:0:{}
+2017-06-16 12:01:23 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 12:01:33 Report By Emp Input:  a:0:{}
+2017-06-16 12:01:33 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 12:01:34 Report By Emp Input:  a:0:{}
+2017-06-16 12:01:34 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 12:01:47 Report By Emp Input:  a:0:{}
+2017-06-16 12:01:47 Report By callType Output:  a:2:{s:4:"code";s:3:"420";s:3:"msg";s:0:"";}
+2017-06-16 12:01:53 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"2";}
+2017-06-16 12:01:53 Report By callType Output:  a:7:{s:5:"count";i:0;s:6:"record";s:1:"1";s:8:"workhour";s:1:"0";s:10:"mcubecalls";s:1:"1";s:7:"mtdebug";s:1:"1";s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:02:10 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"2";}
+2017-06-16 12:02:10 Report By callType Output:  a:7:{s:5:"count";i:0;s:6:"record";s:1:"1";s:8:"workhour";s:1:"0";s:10:"mcubecalls";s:1:"1";s:7:"mtdebug";s:1:"1";s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:02:28 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"0";}
+2017-06-16 12:02:28 Report By callType Output:  a:7:{s:5:"count";i:0;s:6:"record";s:1:"1";s:8:"workhour";s:1:"0";s:10:"mcubecalls";s:1:"1";s:7:"mtdebug";s:1:"1";s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:02:31 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"2";}
+2017-06-16 12:02:31 Report By callType Output:  a:7:{s:5:"count";i:0;s:6:"record";s:1:"1";s:8:"workhour";s:1:"0";s:10:"mcubecalls";s:1:"1";s:7:"mtdebug";s:1:"1";s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:03:07 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"0";}
+2017-06-16 12:03:07 Report By callType Output:  a:7:{s:5:"count";i:0;s:6:"record";s:1:"1";s:8:"workhour";s:1:"0";s:10:"mcubecalls";s:1:"1";s:7:"mtdebug";s:1:"1";s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:03:28 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"2";}
+2017-06-16 12:03:28 Report By callType Output:  a:7:{s:5:"count";i:0;s:6:"record";s:1:"1";s:8:"workhour";s:1:"0";s:10:"mcubecalls";s:1:"1";s:7:"mtdebug";s:1:"1";s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:07:56 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"2";}
+2017-06-16 12:07:56 Report By callType Output:  a:7:{s:5:"count";i:0;s:6:"record";s:1:"1";s:8:"workhour";s:1:"0";s:10:"mcubecalls";s:1:"1";s:7:"mtdebug";s:1:"1";s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:08:06 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"1";}
+2017-06-16 12:08:06 Report By callType Output:  a:7:{s:5:"count";i:0;s:6:"record";s:1:"1";s:8:"workhour";s:1:"0";s:10:"mcubecalls";s:1:"1";s:7:"mtdebug";s:1:"1";s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:08:49 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"2";}
+2017-06-16 12:08:49 Report By callType Output:  a:7:{s:5:"count";i:0;s:6:"record";s:1:"1";s:8:"workhour";s:1:"0";s:10:"mcubecalls";s:1:"1";s:7:"mtdebug";s:1:"1";s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:09:37 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"2";}
+2017-06-16 12:09:37 Report By callType Output:  a:7:{s:5:"count";i:0;s:6:"record";s:1:"1";s:8:"workhour";s:1:"0";s:10:"mcubecalls";s:1:"1";s:7:"mtdebug";s:1:"1";s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:10:58 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"1";}
+2017-06-16 12:13:08 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"1";}
+2017-06-16 12:13:17 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"1";}
+2017-06-16 12:13:18 Report By callType Output:  a:8:{s:7:"records";a:5:{i:0;a:4:{s:7:"empname";s:13:"Ashwini Naidu";s:6:"missed";s:1:"2";s:7:"inbound";i:0;s:8:"outbound";i:0;}i:1;a:4:{s:7:"empname";s:10:"bhulakshmi";s:7:"inbound";s:1:"2";s:8:"outbound";i:0;s:6:"missed";i:0;}i:2;a:4:{s:7:"empname";s:7:"Ashwini";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:3;a:4:{s:7:"empname";s:5:"bhanu";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:4;a:4:{s:7:"empname";s:6:"Mukesh";s:6:"missed";s:1:"1";s:7:"inbound";i:0;s:8:"outbound";i:0;}}s:5:"count";i:5;s:6:"record";s:1:"1";s:8:"workhour";s:1:"0";s:10:"mcubecalls";s:1:"1";s:7:"mtdebug";s:1:"1";s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:15:27 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"1";}
+2017-06-16 12:15:27 Report By callType Output:  a:4:{s:7:"records";a:5:{i:0;a:4:{s:7:"empname";s:13:"Ashwini Naidu";s:6:"missed";s:1:"2";s:7:"inbound";i:0;s:8:"outbound";i:0;}i:1;a:4:{s:7:"empname";s:10:"bhulakshmi";s:7:"inbound";s:1:"2";s:8:"outbound";i:0;s:6:"missed";i:0;}i:2;a:4:{s:7:"empname";s:7:"Ashwini";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:3;a:4:{s:7:"empname";s:5:"bhanu";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:4;a:4:{s:7:"empname";s:6:"Mukesh";s:6:"missed";s:1:"1";s:7:"inbound";i:0;s:8:"outbound";i:0;}}s:5:"count";i:5;s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:15:36 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"2";}
+2017-06-16 12:15:36 Report By callType Output:  a:4:{s:7:"records";a:5:{i:0;a:4:{s:7:"empname";s:13:"Ashwini Naidu";s:6:"missed";s:1:"2";s:7:"inbound";i:0;s:8:"outbound";i:0;}i:1;a:4:{s:7:"empname";s:10:"bhulakshmi";s:7:"inbound";s:1:"2";s:8:"outbound";i:0;s:6:"missed";i:0;}i:2;a:4:{s:7:"empname";s:7:"Ashwini";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:3;a:4:{s:7:"empname";s:5:"bhanu";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:4;a:4:{s:7:"empname";s:6:"Mukesh";s:6:"missed";s:1:"1";s:7:"inbound";i:0;s:8:"outbound";i:0;}}s:5:"count";i:5;s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:16:02 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"0";}
+2017-06-16 12:16:02 Report By callType Output:  a:3:{s:5:"count";i:0;s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:16:04 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"2";}
+2017-06-16 12:16:04 Report By callType Output:  a:4:{s:7:"records";a:5:{i:0;a:4:{s:7:"empname";s:13:"Ashwini Naidu";s:6:"missed";s:1:"2";s:7:"inbound";i:0;s:8:"outbound";i:0;}i:1;a:4:{s:7:"empname";s:10:"bhulakshmi";s:7:"inbound";s:1:"2";s:8:"outbound";i:0;s:6:"missed";i:0;}i:2;a:4:{s:7:"empname";s:7:"Ashwini";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:3;a:4:{s:7:"empname";s:5:"bhanu";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:4;a:4:{s:7:"empname";s:6:"Mukesh";s:6:"missed";s:1:"1";s:7:"inbound";i:0;s:8:"outbound";i:0;}}s:5:"count";i:5;s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:16:19 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"1";}
+2017-06-16 12:16:19 Report By callType Output:  a:4:{s:7:"records";a:5:{i:0;a:4:{s:7:"empname";s:13:"Ashwini Naidu";s:6:"missed";s:1:"2";s:7:"inbound";i:0;s:8:"outbound";i:0;}i:1;a:4:{s:7:"empname";s:10:"bhulakshmi";s:7:"inbound";s:1:"2";s:8:"outbound";i:0;s:6:"missed";i:0;}i:2;a:4:{s:7:"empname";s:7:"Ashwini";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:3;a:4:{s:7:"empname";s:5:"bhanu";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:4;a:4:{s:7:"empname";s:6:"Mukesh";s:6:"missed";s:1:"1";s:7:"inbound";i:0;s:8:"outbound";i:0;}}s:5:"count";i:5;s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:16:23 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"0";}
+2017-06-16 12:16:23 Report By callType Output:  a:3:{s:5:"count";i:0;s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:16:25 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"2";}
+2017-06-16 12:16:25 Report By callType Output:  a:4:{s:7:"records";a:5:{i:0;a:4:{s:7:"empname";s:13:"Ashwini Naidu";s:6:"missed";s:1:"2";s:7:"inbound";i:0;s:8:"outbound";i:0;}i:1;a:4:{s:7:"empname";s:10:"bhulakshmi";s:7:"inbound";s:1:"2";s:8:"outbound";i:0;s:6:"missed";i:0;}i:2;a:4:{s:7:"empname";s:7:"Ashwini";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:3;a:4:{s:7:"empname";s:5:"bhanu";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:4;a:4:{s:7:"empname";s:6:"Mukesh";s:6:"missed";s:1:"1";s:7:"inbound";i:0;s:8:"outbound";i:0;}}s:5:"count";i:5;s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 12:16:27 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"1";}
+2017-06-16 12:16:28 Report By callType Output:  a:4:{s:7:"records";a:5:{i:0;a:4:{s:7:"empname";s:13:"Ashwini Naidu";s:6:"missed";s:1:"2";s:7:"inbound";i:0;s:8:"outbound";i:0;}i:1;a:4:{s:7:"empname";s:10:"bhulakshmi";s:7:"inbound";s:1:"2";s:8:"outbound";i:0;s:6:"missed";i:0;}i:2;a:4:{s:7:"empname";s:7:"Ashwini";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:3;a:4:{s:7:"empname";s:5:"bhanu";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:4;a:4:{s:7:"empname";s:6:"Mukesh";s:6:"missed";s:1:"1";s:7:"inbound";i:0;s:8:"outbound";i:0;}}s:5:"count";i:5;s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 15:33:28 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"0";}
+2017-06-16 15:33:28 Report By callType Output:  a:3:{s:5:"count";i:0;s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 15:33:30 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"1";}
+2017-06-16 15:33:30 Report By callType Output:  a:4:{s:7:"records";a:5:{i:0;a:4:{s:7:"empname";s:13:"Ashwini Naidu";s:6:"missed";s:1:"2";s:7:"inbound";i:0;s:8:"outbound";i:0;}i:1;a:4:{s:7:"empname";s:10:"bhulakshmi";s:7:"inbound";s:1:"2";s:8:"outbound";i:0;s:6:"missed";i:0;}i:2;a:4:{s:7:"empname";s:7:"Ashwini";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:3;a:4:{s:7:"empname";s:5:"bhanu";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:4;a:4:{s:7:"empname";s:6:"Mukesh";s:6:"missed";s:1:"1";s:7:"inbound";i:0;s:8:"outbound";i:0;}}s:5:"count";i:5;s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-16 16:45:53 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"1";}
+2017-06-16 16:45:53 Report By callType Output:  a:4:{s:7:"records";a:5:{i:0;a:4:{s:7:"empname";s:13:"Ashwini Naidu";s:6:"missed";s:1:"2";s:7:"inbound";i:0;s:8:"outbound";i:0;}i:1;a:4:{s:7:"empname";s:10:"bhulakshmi";s:7:"inbound";s:1:"2";s:8:"outbound";i:0;s:6:"missed";i:0;}i:2;a:4:{s:7:"empname";s:7:"Ashwini";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:3;a:4:{s:7:"empname";s:5:"bhanu";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:4;a:4:{s:7:"empname";s:6:"Mukesh";s:6:"missed";s:1:"1";s:7:"inbound";i:0;s:8:"outbound";i:0;}}s:5:"count";i:5;s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
+2017-06-19 10:45:05 Report By Emp Input:  a:3:{s:7:"authkey";s:17:"1.1.d886b8e8a0615";s:8:"deviceid";s:36:"ffffffff-a4d5-960f-ffff-ffff82ba1723";s:10:"reporttype";s:1:"1";}
+2017-06-19 10:45:05 Report By callType Output:  a:4:{s:7:"records";a:4:{i:0;a:4:{s:7:"empname";s:13:"Ashwini Naidu";s:6:"missed";s:1:"1";s:7:"inbound";i:0;s:8:"outbound";i:0;}i:1;a:4:{s:7:"empname";s:10:"bhulakshmi";s:7:"inbound";s:1:"1";s:8:"outbound";i:0;s:6:"missed";i:0;}i:2;a:4:{s:7:"empname";s:7:"Ashwini";s:8:"outbound";s:1:"1";s:7:"inbound";i:0;s:6:"missed";i:0;}i:3;a:4:{s:7:"empname";s:6:"Mukesh";s:6:"missed";s:1:"1";s:7:"inbound";i:0;s:8:"outbound";i:0;}}s:5:"count";i:4;s:4:"code";s:3:"400";s:3:"msg";s:16:"Request Accepted";}
