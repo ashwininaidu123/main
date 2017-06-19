@@ -1,6 +1,5 @@
 <?php
 class Mtappv2 extends Controller {
-	
 	function Mtappv2(){
 		parent::controller();
 		$this->load->model('mtappv2model','MT');
