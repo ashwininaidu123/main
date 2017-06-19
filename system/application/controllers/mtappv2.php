@@ -31,11 +31,11 @@ class Mtappv2 extends Controller {
                 $message = "Your OTP:".$user['otp']." for MTracker Login" ;
                 $sms     = $api . "&to=" . substr($user['empnumber'], -10, 10) . "&text=" . urlencode($message);
                 $sms     = file($sms);
-                $out     = array(
-                    'code' => '400',
-                    'msg' => 'OTP sent to your mobile number',
-                    'otp' => $user['otp'],
-                );
+								$out     = array(
+								    'code' => '400',
+								    'msg' => 'OTP sent to your mobile number',
+								    'otp' => $user['otp'],
+								);
             }
         } else {
             $out = array(
