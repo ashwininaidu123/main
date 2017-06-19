@@ -2,7 +2,7 @@
 class Mtappv2 extends Controller {
 	function Mtappv2(){
 		parent::controller();
-		$this->load->model('mtappv2model','MT'); 	
+		$this->load->model('mtappv2model','MT');
 		$this->form_validation->_error_prefix="<br>";
 		$this->form_validation->_error_suffix="";
 	}
@@ -26,7 +26,7 @@ class Mtappv2 extends Controller {
                 );
             }elseif(is_array($user)){
 		        $otp = str_pad(mt_rand(0, 999999), 6, '0', STR_PAD_LEFT);
-                $user['otp'] = $otp; 
+                $user['otp'] = $otp;
                 $api     = "http://115.249.28.90/sms/sendSMS.php?from=VMCIND";
                 $message = "Your OTP:".$user['otp']." for MTracker Login" ;
                 $sms     = $api . "&to=" . substr($user['empnumber'], -10, 10) . "&text=" . urlencode($message);
@@ -80,11 +80,11 @@ class Mtappv2 extends Controller {
         }
         echo json_encode($out);
         exit;
-	} 
+	}
 	function insert_calldetail(){
 		$fp = fopen("app.txt",'a');
 		fwrite($fp,"\n". serialize($_POST));
-		fclose($fp);  
+		fclose($fp);
         $this->form_validation->set_rules('authkey', 'authkey', 'required');
         if (!$this->form_validation->run() == FALSE) {
             $user = $this->MT->insert_calldetail($_POST);
@@ -96,7 +96,7 @@ class Mtappv2 extends Controller {
             }elseif($user == 'nolicence'){
                 $out = array(
                     'code' => '202',
-                    'msg' => 'You do not have Licence to login, Please contact your administrator' 
+                    'msg' => 'You do not have Licence to login, Please contact your administrator'
                 );
             }elseif($user['success'] == '1'){
 		       $out = array(
@@ -121,13 +121,13 @@ class Mtappv2 extends Controller {
         echo json_encode($out);
         $fp = fopen("app.txt",'a');
 		fwrite($fp,"\n". serialize($out));
-		fclose($fp); 
+		fclose($fp);
         exit;
 	}
 	function getList(){
 		//~ $_POST = array(
 					//~ 'authkey'=>'1.1.52636037dd2e5'
-					//~ ,'type'=>'all'	
+					//~ ,'type'=>'all'
 					//~ ,'ofset'=>'0'
 					//~ ,'limit'=>'20'
 					//~ ,'deviceid'=>'ffffffff-a4d5-960f-ffff-ffff82ba1723'
@@ -194,5 +194,5 @@ class Mtappv2 extends Controller {
         echo json_encode($out);
         exit;
     }
-    
+
 }
